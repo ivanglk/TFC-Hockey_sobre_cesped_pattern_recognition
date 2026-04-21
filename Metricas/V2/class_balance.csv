@@ -1,0 +1,10 @@
+Class Name,Total Count,Training Count,Validation Count,Test Count
+Player,858,617,147,94
+25yd line,75,58,10,7
+Goal,59,41,11,7
+Lateral Line,59,44,9,6
+Fondo Line,30,25,2,3
+50yd line,28,21,4,3
+Goalkeeper,10,9,0,1
+Referee,6,5,0,1
+Ball,3,3,0,0
